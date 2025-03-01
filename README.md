@@ -1,1 +1,5 @@
-# BIKE_STORE-ANALYSIS
+# BIKE STORE ANALYSIS
+
+## Screenshot: 
+
+This project is done using Power BI.
